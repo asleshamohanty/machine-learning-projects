@@ -4,7 +4,7 @@ This folder contains various machine learning projects focusing on different asp
 
 ## Projects
 
-### 1. **StockSight: Predicting Market Trends Using Machine Learning and Deep Learning**
+### 1. **Comprehensive Stock Market Analysis and Prediction System**
    - **Description**: This project analyzes historical stock market data to predict future stock prices. It uses exploratory data analysis (EDA) to uncover trends and applies both machine learning (Random Forest) and deep learning (LSTM) models to make predictions. The models' performance is evaluated using RMSE.
    - **Techniques Used**:
      - Exploratory Data Analysis (EDA)
